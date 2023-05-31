@@ -45,3 +45,6 @@ https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Da
 https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date/getUTCMinutes
 https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date/getUTCSeconds
 https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Date/getUTCMilliseconds
+
+![image](https://github.com/ITK-SHIN/Make-a-stopwatch/assets/105304446/dcb593bd-e633-4ee9-b1bd-3d94f52aa049)
+
